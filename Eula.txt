@@ -1,0 +1,26 @@
+End User License Agreement (EULA) for onex.js
+---------------------------------------------
+
+Copyright (c) 2025 NubladoXD
+
+Al descargar, usar o integrar este software ("onex.js") en tu proyecto, aceptas los siguientes términos:
+
+1. Permisos:
+   ✅ Puedes usar onex.js para cualquier proyecto personal, comercial o experimental.
+   ✅ Puedes modificar el código para uso interno en tu proyecto.
+   ✅ Puedes integrarlo en tu sitio web, videojuego, app o proyecto.
+
+2. Restricciones:
+   ❌ No puedes redistribuir el archivo original ni versiones modificadas sin autorización.
+   ❌ No puedes publicar este software en otro repositorio, CDN o sitio web.
+   ❌ No puedes vender, revender, licenciar o empaquetar este software como tuyo.
+   ❌ No puedes eliminar o alterar el crédito del autor ("NubladoXD").
+
+3. Propiedad:
+   onex.js es y seguirá siendo propiedad intelectual exclusiva de NubladoXD.
+   Este software se ofrece tal cual, sin garantía alguna. Úsalo bajo tu propio riesgo.
+
+4. Consecuencias:
+   Cualquier violación de este acuerdo podrá resultar en una eliminación de tu código con un shader roto, una maldición de audio corrupto, y una visita legal si te pasas de listo 😎
+
+Gracias por usar onex.js con respeto.
